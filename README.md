@@ -26,8 +26,8 @@ AUTH_USER=user@domain.com   # Username for basic authentication
 AUTH_PASSWORD=secret        # Password for basic authentication
 
 # Octane API Configuration (Required)
-OCTANE_USER=username        # Octane API username
-OCTANE_PASSWORD=password    # Octane API password
+OCTANE_USER=username        # Octane API username / Client ID
+OCTANE_PASSWORD=password    # Octane API password / Client Secret
 
 # Logging
 VERBOSE=false              # Enable verbose logging (default: false)
